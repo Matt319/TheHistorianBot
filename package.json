@@ -1,0 +1,18 @@
+{
+  "name": "twitter-plays-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "g-i-s": "^2.1.6",
+    "twit": "^2.2.11",
+    "wikijs": "^6.0.1"
+  }
+}
